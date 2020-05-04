@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794306623930",
+    "firebase_url": "https://red-freedom-275907.firebaseio.com",
+    "project_id": "red-freedom-275907",
+    "storage_bucket": "red-freedom-275907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794306623930:android:e82e6e16d474710af8c583",
+        "android_client_info": {
+          "package_name": "com.ht09googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794306623930-6q1rl39egarj92kljqggffmlntcaqfm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ht09googlesignin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "794306623930-a0kn3dl92np1gei0cg09dg8b633f3b2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwZy9nx5oK7-BLHo5Ke_2f24xJZXbHnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794306623930-a0kn3dl92np1gei0cg09dg8b633f3b2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

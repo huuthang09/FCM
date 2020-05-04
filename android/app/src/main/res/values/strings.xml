@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HT09GoogleSignIn</string>
+    <string name="default_notification_channel_id" translatable="false">test-channel</string>
+</resources>
